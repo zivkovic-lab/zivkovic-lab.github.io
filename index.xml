@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zivkovic Lab</title>
+    <link>https://zivkovic-lab.github.io/</link>
+    <description>Recent content on Zivkovic Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://zivkovic-lab.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>https://zivkovic-lab.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zivkovic-lab.github.io/contact/</guid>
+      <description>Angela Zivkovic, Ph.D.
+Assistant Professor, Department of Nutrition
+Assistant Nutritionist, Agricultural Experiment Station
+amzivkovic@ucdavis.edu
+Phone: (530) 554-2534
+Office: 3245 Meyer Hall
+Lab: 3402 Meyer hall, (530) 752-3973</description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>https://zivkovic-lab.github.io/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zivkovic-lab.github.io/people/</guid>
+      <description>CURRENT LAB MEMBERS
+  Angela Zivkovic, Ph.D.
+Assistant Professor, Department of Nutrition
+Office: 3245 Meyer Hall, (530) 554-2534
+Lab: 3402 Meyer hall, (530) 752-3973
+amzivkovic@ucdavis.edu
+Joanne Agus
+Laboratory Manager
+Lab: 3402 Meyer hall, (530) 752-3973
+jkagus@ucdavis.edu
+Jea Woo Kang
+Graduate Student
+Lab: 3402 Meyer hall, (530) 752-3973
+jwkkang@ucdavis.edu
+Christopher Rhodes
+Graduate Student
+Graduate Group in Nutritional Biology
+Lab: 3402 Meyer hall, (530) 752-3973
+chrhodes@ucdavis.edu
+Chenghao (Trevor) Zhu
+Graduate Student</description>
+    </item>
+    
+  </channel>
+</rss>
